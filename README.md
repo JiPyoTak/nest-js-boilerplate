@@ -8,7 +8,7 @@ prefix로 `/api`를 붙입니다.
 
 요청 실패시 아래 형식으로 응답합니다.
 
-```json
+```
 {
   success: false,
   timestamp: "2023-02-22T06:25:08.663Z",
@@ -22,7 +22,7 @@ prefix로 `/api`를 붙입니다.
 
 요청 성공시 아래 형식으로 응답합니다.
 
-```json
+```
 {
   success: true,
   data: "Hello World!"
